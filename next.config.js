@@ -5,6 +5,6 @@ module.exports = {
     domains: ['res.cloudinary.com'],
   },
   env: {
-    URL:"https://wahyu-nest-js.herokuapp.com/",
+    URL:"https://wahyu-nest-js.herokuapp.com",
   },
 }
